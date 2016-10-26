@@ -1,0 +1,16 @@
+
+{
+    "name": "seanpeterkin.rods_cones",
+    "title": "Rods & Cones",
+    "description": "Color blind friendly theme for anyone with Deuteranomaly: the most common form of color blindness. It will make your rods and cones very happy! :)",
+    "homepage": "https://github.com/seanpeterkin/rods_cones",
+    "version": "1.0.1",
+    "author": "Sean Peterkin <peterkin.sean@gmail> (http://github.com/seanpeterkin)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "light": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "colorblind", "colors", "deuteranomaly"]
+}
